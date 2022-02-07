@@ -1,0 +1,70 @@
+{
+  "intents": [
+    {
+      "tag": "med_data",
+      "patterns": ["cipladine","Cipladine","CIPLADINE"],
+      "responses": ["INFORMATION ABOUT CIPLADINE\n\tUses: Prevention of Wound infection. \n\tSide Effects: Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you are worried about them.\n\t Application site reactions (burning, irritation, itching and redness) \n\tQuick Tips: \n\t @ Cipladine Ointment is an antiseptic that helps treat and prevent infections.\n\t @ Apply a small amount to the affected area after cleaning it properly.\n\t @ Avoid contact with eyes and nose.\n\t @ In case of accidental contact, rinse thoroughly with water.\n\t @ Do not use it on burnt, broken or inflamed skin. "]
+    },
+    {
+      "tag": "med_data",
+      "patterns": ["Eritel-AM","eritel-am","eritelam","eritel-AM","ERITEL-AM"],
+      "responses": ["INFORMATION ABOUT ERITEL-AM\n\tUses: Hypertension (high blood pressure). \n\tSide Effects: Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you are worried about them.\n\tCommon side effects of Eritel-AM\n\t @ Sleepiness\n\t @ Ankle Swelling Headache\n\t @ Flushing (sense of warmth in the face, ears, neck and trunk)\n\t @ Tiredness\n\t @ Upset stomach\n\t @ Increased potassium level in blood \n\tQuick Tips: \n\t @ Eritel-AM Tablet is a combination of two medicines that provides better blood pressure control than either medicine alone.\n\t @ Eritel-AM Tablet may cause dizziness or sleepiness. Do not drive or do anything requiring concentration until you know how it affects you.\n\t @ It may cause you to feel lightheaded or weak especially when you stand up.  Rise slowly if you have been sitting or lying down.\n\t @ Avoid consuming alcohol as it may enhance the blood pressure lowering effect of this medicine.\n\t @ It can cause ankle or foot swelling. Raise your legs while you are sitting down and talk to your doctor if it does not go away.\n\t @ Do not take Eritel-AM Tablet if you are pregnant, planning to conceive or breastfeeding."]
+    },
+    {
+      "tag": "med_data",
+      "patterns": ["Mazetol-200","mazetol-200","MAZETOL-200","mazetol200","MAZETOL200"],
+      "responses": ["INFORMATION ABOUT MAZETOL-200\n\tUses: Trigeminal neuralgia, Diabetic nerve pain. \n\tSide Effects: Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you are worried about them.\n\tCommon side effects of Mazetol\n\t @ Balance disorder (loss of balance)\n\t @ Vomiting\n\t @ Blurred vision\n\t @ Dryness in mouth\n\t @ Itching \n\tQuick Tips: \n\t @ Take your medication regularly as directed by your doctor as missing doses can trigger seizures.\n\t @ Do not change the brand of your medicine and make sure that you have sufficient amount of medicine present with you.\n\t @ Your doctor may get regular tests done to monitor the level of blood cells in your blood while taking this medication.\n\t @ Talk to your doctor if you notice sudden mood changes or develop suicidal thoughts.\n\t @ Inform your doctor if you notice a rash or other skin changes such as reddish spot or circular patches while taking this medicine."]
+    },
+{
+      "tag": "med_data",
+      "patterns": ["remdesivir","REMDESIVIR","Remdesivir"],
+      "responses": ["INFORMATION ABOUT REMDESIVIR\n\t Uses:Remdesivir is used in the treatment of Coronavirus disease (COVID-19).\n\tSide Effects:Anemia (low number of red blood cells), Fever, Kidney damage, Hypotension (low blood pressure), Nausea, Vomiting, Increased liver enzymes\n\tQuick Tips:\n\t @ Remdesivir is used to treat coronavirus disease 2019 (COVID-19 infection) in hospitalized adults and children 12 years of age and older who weigh at least 88 pounds (40 kg).\n\t @ Renal and liver function of the patient (with kidney and liver problem respectively) should be monitored before and during treatment with Remdesivir.\n\t @ The doctor should be informed about all other prescription and over-the-counter medicines, vitamins, and herbal supplements that you are taking. Remdesivir may interact with other medicines.\n\t @ After completing the treatment with Remdesivir and stay at the hospital, maintain a healthy lifestyle at home in order to recover quickly.\n\t @ COVID 19 can be life-threatening but can be prevented by taking vaccination, wearing masks, and maintaining social distancing wherever possible."]
+    },
+    {
+      "tag": "med_data",
+      "patterns": ["VentorlinInhaler","VENTORLININHALER","ventorlininhaler"],
+      "responses": ["INFORMATION ABOUT VENTORLIN INHALER\n\tUses: Asthma and Chronic obstructive pulmonary disease (COPD).\n\tSideEffects:Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you are worried about them. Common side effects of Ventorlin \n\t @ Tremor\n\t @ Headache\n\t @ Tachycardia\n\tQuick Tips\n\t @ The inhalers are called 'reliever' inhalers as they give you quick relief from breathing problems.\n\t @ Always keep the inhaler upright during loading of the dose and administration steps.\n\t @ If you feel a slightly sweet tasting powder in your mouth after inhaling, you have received the dose and the active substance has reached your lungs.\n\t @ Always replace the inhaler cap after you have used the inhaler.\n\t @ Gargle with warm water after each inhalation to avoid any fungal infections in your mouth and throat.\n\t @ Dry mouth may occur as a side effect.Frequent mouth rinses, good oral hygiene, increased water intake, and eating sugarless candy may help."]
+    },
+{
+      "tag": "greeting",
+      "patterns": ["Hi","Hey","How are you","Is anyone there?","Hello","Good day"],
+      "responses": ["Hey :-) ...Its Jadeja reporting..!!","Hello, thanks for visiting","Hi there, Iam Jadeja_bot what can I do for you?"]
+    },
+{
+      "tag": "med_data",
+      "patterns": ["Mucolite-tab","mucolite-tab","MUCOLITE,Mucolite,mucolite"],
+      "responses": ["INFORMATION ABOUT MUCOLITE\n\tUses: Treatment of Respiratory tract disorders associated with viscid mucus and dry cough. \n\tSide Effects: Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you are worried about them.\n\tCommon side effects of Mucolite\n\t @ Vomiting\n\t @ Nausea\n\t @ Upset stomach \n\tQuick Tips: \n\t @ Mucolite Tablet helps in thinning and removal of the mucus (slimy and sticky substance) from the airways, thereby treats various respiratory conditions.\n\t @ Measure the syrup with a special dose-measuring spoon or cup, not a regular table spoon.\n\t @ Inform your doctor if you have suffered or are currently suffering from any stomach, liver or kidney problem.\n\t @ Do not use Mucolite Tablet for more than 14 days, without your doctor’s advice.\n\t @ Tell your doctor if you are pregnant, planning to become pregnant or are breastfeeding. "]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "botteam",
+      "patterns": ["team","TEAM"],
+      "responses": ["\n\n\tTITLE: AI BASED CHATBOT FOR RETRIEVING MEDICINE INFORMATION\n\n\t TEAM MEMBERS:\n\t\t AJAY JADEJA D\n\t\t DINESH A\n\t\t HARI VIGNESH R\n\t\t RAKESH T\n\t GUIDE:\n\t\t Dr.S.LAVANYA,M.E.,Ph.D.,\n\t\t Professor\n\n\tPROJECT COORDINATOR:\n\t\tDr.N.NAVEENKUMAR,M.E.,Ph.D.,\n\t\t Associate Professor"]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "What is the opposite of made in india?? pallam in india",
+        "What is the opposite of Penquin?? AanKing(Male King)"
+      ]
+    }
+  ]
+}
